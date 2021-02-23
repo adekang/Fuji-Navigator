@@ -117,7 +117,7 @@ parcelRequire = (function (modules, cache, entry, globalName) {
   }
 
   return newRequire;
-})({"CuZ1":[function(require,module,exports) {
+})({"ECQE":[function(require,module,exports) {
 // 增加网站
 var $siteList = $(".siteList");
 var $lastLi = $siteList.find("li.last");
@@ -188,5 +188,5 @@ $(document).on("keypress", function (e) {
     }
   }
 });
-},{}]},{},["CuZ1"], null)
-//# sourceMappingURL=mian.28197b21.js.map
+},{}]},{},["ECQE"], null)
+//# sourceMappingURL=mian.287ab6ea.js.map
